@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" height ="70" />
+</div>
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Tejas 👋</h1>
 <h3 align="center">Senior Full Stack Engineer · MSCS @ SUNY Binghamton · AI & Intelligent Workflows</h3>
