@@ -144,23 +144,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanitejas&show_icons=true&theme=radical" alt="Tejas GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanitejas&theme=radical" alt="Tejas GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanitejas&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/wanitejas/wanitejas/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
