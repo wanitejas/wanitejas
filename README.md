@@ -6,12 +6,6 @@
 <h3 align="center">Senior Full Stack Engineer · MSCS @ SUNY Binghamton · AI & Intelligent Workflows</h3>
 
 <p align="center">
-  <a href="mailto:twanibinghamton.edu">Email</a> •
-  <a href="https://www.linkedin.com/in/wanitejas">LinkedIn</a> •
-  <a href="https://github.com/wanitejas">GitHub</a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=wanitejas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -19,7 +13,7 @@
 
 ## 👨‍💻 About
 
-- Senior full stack engineer with **4+ years** of experience building production-grade systems across backend, frontend, and cloud infrastructure.  
+- Senior Full Stack engineer with **4+ years** of experience building production-grade systems across backend, frontend, and cloud infrastructure.  
 - MS in Computer Science from **SUNY Binghamton**, focusing on scalable systems, AI, and automation.  
 - Passionate about **AI-driven and agentic workflows** that automate complex, multi-step business processes and integrate seamlessly into existing products.  
 - Background in **MES/HMI automation**, cloud-native microservices, and data-driven optimization for performance and reliability.
@@ -106,7 +100,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 🩺 Detection of Lung Diseases using Deep Learning
 - Built a CNN with **DenseNet-121** and transfer learning on **120K+** chest X-ray images.  
@@ -176,7 +170,13 @@
 - 💼 Open to full-time **Software Engineer / Full Stack / AI Engineer** roles.  
 - 🤝 Enjoy collaborating on AI agents, real-time systems, and high-impact automation.  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/wanitejas">🔗 Connect on LinkedIn</a><br/>
-  <a href="mailto:twanibinghamton.edu">📧 Email me</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wanitejas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:twanibinghamton.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
