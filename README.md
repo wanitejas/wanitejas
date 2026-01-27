@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 What I Work On
+## 🧠 What I Worked On
 
 - **AI & Intelligent Workflows**  
   - LLM-based assistants for FAQs and human-in-the-loop support.  
